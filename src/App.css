@@ -38,12 +38,15 @@ header h2 {
 }
 
 .sidebar {
-  width: 30%;
+  width: 35%;
   padding-right: 20px;
+  background-color: #f3f3f3;
+  text-align: end;
 }
 
 .main-content {
   width: 70%;
+  margin-left: 30px;
 }
 
 h3 {
@@ -63,7 +66,6 @@ h3 {
 }
 
 .skills ul li {
-  background-color: #eee;
   padding: 5px;
   margin-bottom: 5px;
   border-radius: 4px;
