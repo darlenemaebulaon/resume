@@ -12,11 +12,11 @@ function App() {
       <section class="sidebar">
         <div class="contact">
           <h1>Contact</h1>
-            <p>mdmmbulaon.student@ua.edu.ph <FaEnvelope/> </p>
-            <p>09217233898 <FaPhone/> </p>
-            <p>San Luis, Pampanga <FaMapMarkerAlt/> </p>
-            <a href="https://github.com/darlenemaebulaon">Github <FaGithub/> </a> <br></br> <br></br>
-            <a href="https://ph.linkedin.com/in/milagros-darlene-mae-bulaon-3326a831a">LinkedIn <FaLinkedin/> </a>
+            <p>mdmmbulaon.student@ua.edu.ph </p>
+            <p>09217233898  </p>
+            <p>San Luis, Pampanga </p>
+            <a href="https://github.com/darlenemaebulaon">Github </a> <br> <br>
+            <a href="https://ph.linkedin.com/in/milagros-darlene-mae-bulaon-3326a831a">LinkedIn </a>
         </div>
 
         <div class="education">
