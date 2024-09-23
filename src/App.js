@@ -12,9 +12,9 @@ function App() {
       <section class="sidebar">
         <div class="contact">
           <h1>Contact</h1>
-          <p><strong>mdmmbulaon.student@ua.edu.ph</p>
-          <p><strong>09217233898</p>
-          <p><strong>San Luis, Pampanga</p>
+          <p>mdmmbulaon.student@ua.edu.ph</p>
+          <p>09217233898</p>
+          <p>San Luis, Pampanga</p>
           <a href="https://github.com/darlenemaebulaon">Github</a> <br></br> <br></br>
           <a href="https://ph.linkedin.com/in/milagros-darlene-mae-bulaon-3326a831a">LinkedIn</a>
 
