@@ -1,5 +1,4 @@
 import './App.css';
-import {FaEnvelope, FaPhone, FaMapMarkerAlt, FaGithub, FaLinkedin} from "react-icons/fa";
 
 function App() {
   return (
